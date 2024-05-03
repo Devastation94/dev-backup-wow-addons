@@ -16,7 +16,6 @@
     * Open `CopyAddonsDaily.ps1` in a text editor
     * Update line 3 if you want to change max backups from 30
     * Change the path line 6 to your local MAIN world of warcraft folder
-    * Change the path in line 8 to the new backup folder you created
     * Change line 10 if you do not want to backup retail and classic
     * Save `CopyAddonsDaily.ps1`
     * Close `CopyAddonsDaily.ps1`
